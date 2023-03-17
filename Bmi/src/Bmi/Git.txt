@@ -1,0 +1,10 @@
+주소
+https://github.com/HyowolJung/JavaEx.git
+토큰
+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
+
+프로젝트 ----커밋Commit---- 로컬 저장소
+	------푸쉬Push------원격 저장소
+
+프로젝트(수정) -> 커밋Commit >- 로컬 -> 푸쉬Push -> 원격
+프로젝트(수정) <- 풀Pull <- 원격

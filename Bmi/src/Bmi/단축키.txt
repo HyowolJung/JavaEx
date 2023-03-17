@@ -1,0 +1,15 @@
+단축키 정리
+CRTL + E : 파일탐색기 열기
+main + CRTL + SPACE
+SYSO + CTRL + SPACE
+CTRL + SHIFT + +: 글자크기
+CTRL + F11 : 즉시 실행
+CTRL + D : 소스코드 1줄 삭제
+ALT + 방향키: 소스코드 1줄 이동
+CTRL + ALT + 방향키: 소스코드 1줄 복사 이동
+CTRL + SHIFT + W: 열린 창 모두 닫기
+
+
+
+
+
