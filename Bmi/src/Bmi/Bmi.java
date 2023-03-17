@@ -7,8 +7,6 @@ public class Bmi {
 	
 	int weight;
 	int height;
-	private void syso() {
-		//안녕?
-
-	}
+	int pull;
+	
 }
