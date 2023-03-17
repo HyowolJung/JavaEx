@@ -8,7 +8,7 @@ public class Bmi {
 	int weight;
 	int height;
 	private void syso() {
-		// TODO Auto-generated method stub
+		//안녕?
 
 	}
 }
