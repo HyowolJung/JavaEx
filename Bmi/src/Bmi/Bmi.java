@@ -9,5 +9,6 @@ public class Bmi {
 	int height;
 	int pull;
 	int push;
-	
+	int hi;
+
 }
